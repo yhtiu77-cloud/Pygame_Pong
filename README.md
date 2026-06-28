@@ -6,7 +6,7 @@ A simple two-player Pong clone built with Python and pygame.
 
 ```bash
 pip install pygame
-python main.py
+python Pong.py
 ```
 
 ## Controls
